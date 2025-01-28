@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.List;
 // Scanner input stuff
 
-class testing {
+class Lecture {
     public static void main (String[] args){
         pFour(5);
     }

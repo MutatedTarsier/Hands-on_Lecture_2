@@ -1,5 +1,7 @@
 # Hands-on_Lecture_2
 
-Calculations to create Pascal's Triangle given a number of rows
+pascal_triangle.java creates a pascal triangle given the number of rows.
 
-Create an array that contains a given matrix in the order of a spiral
+spiral_matrix.java creates an array that orders a matrix in a spiral manner.
+
+Included in both files are methods to display the matrices.

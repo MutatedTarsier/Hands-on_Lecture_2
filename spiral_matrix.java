@@ -1,6 +1,16 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/* Problem:
+ * Given an m x n matrix, return all elements of the matrix in spiral order.
+ * Constaints:
+ * m == matrix.length
+ * n == matrix[i].length
+ * 1 <= m, n <= 10
+ * -100 <= matrix[i][j] <= 100
+ */
+
+// See test cases to see different inputs, their outputs, and the expected outputs
 public class spiral_matrix {
     public static void main(String[] args){
         int[][] matrix = { // Input matrix

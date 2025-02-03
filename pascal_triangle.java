@@ -1,6 +1,13 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/* Problem: 
+ * Given an integer numRows, return the first numRows of Pascal's triangle.
+ * Constraints:
+ * 1 <= numRows <= 30
+ */
+
+ // See test cases to see different inputs, their outputs, and the expected outputs
 public class pascal_triangle {
     public static void main(String[] args){
         int rows = 10; // Edit to change amount of rows
